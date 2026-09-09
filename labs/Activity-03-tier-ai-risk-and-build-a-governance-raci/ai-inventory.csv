@@ -1,0 +1,4 @@
+id,use_case,owner,purpose,affected_people,data,provider,deployment_state,autonomy,scale,severity,reversibility,vulnerability,inherent_risk,tier,minimum_controls,review_cadence,rationale
+AI-01,Applicant ranking,HR Director,Prioritise applicant review,Job applicants,Resumes and hiring outcomes,Vendor model,Pilot,3,4,4,2,3,,,,,
+AI-02,Meeting summariser,Operations Lead,Draft internal meeting notes,Employees,Meeting audio,Cloud LLM,Production,1,2,2,4,2,,,,,
+AI-03,Marketing image generator,Marketing Lead,Draft campaign images,Customers,Prompts and brand assets,Image model,Experiment,1,3,2,4,1,,,,,

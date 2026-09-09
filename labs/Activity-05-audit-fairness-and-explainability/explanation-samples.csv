@@ -1,0 +1,4 @@
+candidate_id,model_explanation,fidelity_rating,clarity_rating,actionability_rating,risk_of_misleading,safer_notice
+003,Your score was low because the model found weak experience,,,,,
+009,Your application did not match our successful candidate profile,,,,,
+010,The model ranked other candidates higher,,,,,

@@ -1,0 +1,5 @@
+threat,asset,control,why_fit,utility_cost,validation_evidence,residual_risk,owner,retention_or_deletion_rule
+Linkage attack,,,,,,,,
+Membership inference,,,,,,,,
+Model inversion,,,,,,,,
+Prompt disclosure,,,,,,,,

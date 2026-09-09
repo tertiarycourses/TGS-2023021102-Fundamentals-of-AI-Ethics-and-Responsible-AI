@@ -1,0 +1,7 @@
+stakeholder,role,power,exposure,benefit,possible_harm,severity,reversibility,current_control,feedback_channel
+HR director,decision maker,high,medium,Faster hiring,Reputational risk,medium,medium,Governance council review,Governance council
+Recruiter,operator,medium,high,Prioritised workload,Automation bias,high,medium,Manual override,Team review
+Candidate,affected person,low,high,Faster response,Unfair exclusion,high,low,None stated,Appeal portal
+Vendor,provider,high,medium,Product revenue,Unclear accountability,medium,medium,Contract review,Vendor assurance channel
+Hiring manager,decision user,medium,high,Faster shortlist,Over-reliance on score,high,medium,Recruiter review,HR escalation
+Internal audit,assurance actor,medium,low,Better evidence,Incomplete logs,medium,high,Periodic audit,Audit committee

@@ -1,0 +1,8 @@
+{
+  "application": "Policy Assistant",
+  "users": ["employees"],
+  "model_provider": "cloud LLM",
+  "retrieval": "internal policy vector store",
+  "tools": ["search policies", "draft email", "send email"],
+  "logs": ["prompt", "retrieval source", "tool call", "approver"]
+}

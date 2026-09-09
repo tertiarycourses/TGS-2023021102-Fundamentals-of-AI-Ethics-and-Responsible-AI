@@ -11,6 +11,7 @@
 *.key
 *.p12
 *.pfx
+~$*
 credentials.json
 secrets.json
 .npmrc
@@ -31,6 +32,14 @@ __pycache__/
 /qa/
 /qa-*/
 /rendered/
+/tmp/
+/courseware/build/
+/courseware/build-assets/
+/courseware/assets/
+/courseware/archive/
+/courseware/slide_map.json
+/courseware/AP-*
+/courseware/FG-*
 
 # Private source references, except generic skill reference implementations
 **/reference/

@@ -1,0 +1,13 @@
+record_id,group,resume_language,years_experience,qualification_label,interview_transcript_available,missing_fields
+001,A,English,4,1,1,0
+002,A,Mandarin,2,1,0,1
+003,A,English,,0,1,1
+004,B,Malay,5,1,1,0
+005,B,English,1,0,0,1
+006,B,Tamil,3,1,1,0
+007,C,English,6,1,1,0
+008,C,Mandarin,,0,0,2
+009,C,Malay,2,1,1,0
+010,A,Tamil,1,0,1,0
+011,B,English,4,1,1,0
+012,C,English,3,1,0,1

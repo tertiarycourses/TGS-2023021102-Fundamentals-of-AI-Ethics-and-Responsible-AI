@@ -1,0 +1,9 @@
+principle,policy_statement,owner,control_type,control,frequency_or_trigger,evidence,failure_indicator,exception_route,consequence
+Fairness,,,,,,,,,
+Transparency,,,,,,,,,
+Explainability,,,,,,,,,
+Privacy,,,,,,,,,
+Safety,,,,,,,,,
+Security,,,,,,,,,
+Accountability,,,,,,,,,
+Human agency and oversight,,,,,,,,,

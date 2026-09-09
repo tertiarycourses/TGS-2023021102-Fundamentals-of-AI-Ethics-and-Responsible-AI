@@ -1,0 +1,7 @@
+id,cause,event,impact,stakeholder,inherent_likelihood,inherent_severity,preventive_control,detective_control,response_control,recovery_control,evidence,test_frequency,residual_likelihood,residual_severity,owner,status
+R-01,,,,,,,,,,,,,,,,
+R-02,,,,,,,,,,,,,,,,
+R-03,,,,,,,,,,,,,,,,
+R-04,,,,,,,,,,,,,,,,
+R-05,,,,,,,,,,,,,,,,
+R-06,,,,,,,,,,,,,,,,

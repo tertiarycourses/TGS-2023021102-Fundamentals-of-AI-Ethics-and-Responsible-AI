@@ -1,0 +1,4 @@
+dataset,owner,source,authority,sensitivity,purpose,location,retention,quality_limitations
+Resumes,HR Data Owner,Applicants,Recruitment process,Confidential,Applicant ranking,Singapore cloud,24 months,Unstructured and multilingual
+Hiring outcomes,HR Data Owner,HRIS,Employment records,Confidential,Model training,Singapore cloud,7 years,Reflects historical decisions
+Interview transcripts,Recruitment Lead,Recorded interviews,Consent pending,Highly confidential,Future model feature,Vendor cloud,TBD,Accent and transcription error

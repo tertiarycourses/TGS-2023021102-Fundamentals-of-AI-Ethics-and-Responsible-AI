@@ -1,0 +1,1 @@
+BrightHire wants the ranking model to reject the lowest 30% of applicants automatically, without recruiter review. The vendor will also add interview-transcript analysis. The system will operate in Singapore and Malaysia. No subgroup performance report or deletion design has been provided.

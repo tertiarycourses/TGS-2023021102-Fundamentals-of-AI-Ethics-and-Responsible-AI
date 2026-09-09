@@ -1,0 +1,1 @@
+BrightHire uses an AI service to rank applicants for customer-support roles. Recruiters see a 0-100 suitability score and the top three resume phrases. The vendor trained the model on historical hiring outcomes. Candidates are not told that AI is used. Recruiters can override the ranking, but overrides are not logged. The company plans to screen 25,000 applicants a year.
