@@ -1,86 +1,60 @@
-# Labs — Agentic AI Applications with Claude Code (TGS-2025052468)
+# Fundamentals of AI Ethics and Responsible AI
 
-Hands-on labs for the WSQ course **Agentic AI Applications with Claude Code**.
+Build a practical foundation in ethical AI principles and apply governance frameworks to real-world AI projects.
 
-**Register for the course:** [tertiarycourses.com.sg](https://www.tertiarycourses.com.sg/wsq-agentic-ai-applications-with-claude-code.html)
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2023021102` |
+| Programme | WSQ |
+| Level | Beginner |
+| Duration | 2 days / 16 training hours, plus a 2-hour assessment |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-fundamentals-of-ai-ethics-and-responsible-ai.html) |
+| Funding | Up to 70% WSQ funding for eligible learners or employers. Eligibility, funding validity, and other terms apply. |
 
----
+## About the course
 
-## The four labs
+This course introduces the ethical and governance considerations involved in designing, deploying, and using artificial intelligence responsibly. Learners examine ethical decision-making, explainability, bias, privacy, safety, and organisational governance through applied examples and case studies.
 
-Each lab is a self-contained folder. They build on one another — Lab 1 creates
-the website that Labs 1b, 2 and 3 then extend.
+## Learning outcomes
 
-| Lab | Topic | What you do | Folder |
-|---|---|---|---|
-| **1** | Topic 1 — Fundamentals | Build & deploy a site with the **7-step workflow** | [`lab1-seven-steps/`](lab1-seven-steps/) |
-| **1b** | Topic 2 — Tools & Commands | A `/publish` **custom command** + **Playwright MCP** screenshots | [`lab1b-commands-mcp/`](lab1b-commands-mcp/) |
-| **2** | Topic 3 — Skills | Install 3 **skills** and revamp the site | [`lab2-skills/`](lab2-skills/) |
-| **3** | Topic 3 — Agents & Hooks | **Hooks**, **sub agents** and **`/loop`** | [`lab3-hooks/`](lab3-hooks/) |
+By the end of the course, learners should be able to:
 
----
+- Identify AI ethics and governance principles.
+- Apply an AI ethics and governance framework to AI projects.
 
-## The thread running through all four
+## Topics covered
 
-Every lab demonstrates a different **trigger** — the thing that causes Claude to
-load or run something. That is the idea the whole course is organised around:
+### 1. Introduction to AI ethics and governance frameworks
 
-| Mechanism | Trigger | Lab |
-|---|---|---|
-| `CLAUDE.md` | Every session | 1 (Step 4) |
-| Skills | On demand | 2 |
-| Tools / MCP | On demand | 1b |
-| Slash commands | Manually | 1b |
-| Hooks | By event | 3 |
-| Sub agents | By delegation | 3 |
-| `/loop` | On a schedule | 3 |
+- AI ethics, responsible AI, and explainable AI
+- Principles of ethical and responsible AI
+- AI governance frameworks
+- AI ethics use cases
 
----
+### 2. Applying AI ethics and governance frameworks
 
-## Before you start
+- Assessing organisational AI guidelines
+- AI governance processes
+- Codes of conduct covering bias, privacy, and safety
+- Case studies applying governance to AI projects
 
-- **Claude Code** installed and signed in — terminal or the VS Code extension
-- **Node.js** (LTS) — [nodejs.org](https://nodejs.org)
-- A **GitHub account**
-- A browser
+## Activities
 
-```bash
-claude --version
-node --version
-```
+Learner activity folders are not currently included in this repository. Detailed procedures belong in the Learner Guide and future self-contained activity folders rather than in this README.
 
----
+## Repository contents
 
-## How to work through them
+This repository currently provides the project-level WSQ courseware toolchain in two compatible layouts:
 
-Start at [`lab1-seven-steps/README.md`](lab1-seven-steps/README.md) and follow
-the steps in order. Every step file gives you:
+- [`.claude/`](.claude/) — skills, commands, hooks, helper scripts, agent definition, and hook settings for Claude-based workflows.
+- [`.agents/`](.agents/) — the corresponding project-local agent toolchain and skills.
 
-- the **exact prompt** to paste
-- what you should see happen
-- a **checkpoint** to confirm before moving on
+## Public and private distribution boundary
 
-Do not skip the checkpoints — later labs assume the earlier ones actually
-worked.
+This public repository includes reusable courseware tooling only. Course applications, trainer or developer records, validation correspondence, assessments, answer keys, credentials, private source material, build outputs, QA renders, and archives remain private and are intentionally excluded.
 
----
+## Provider
 
-## Sample sites
+Tertiary Infotech Academy Pte Ltd · UEN 201200696W
 
-Finished builds you can read for reference live in
-[`lab1-seven-steps/sample-sites/`](lab1-seven-steps/sample-sites/) — a bridal
-booking page, an interior-design studio site, and a lead-generation app. The
-lab's own reference deliverable is in
-[`lab1-seven-steps/reference-site/`](lab1-seven-steps/reference-site/).
-
----
-
-## Legacy activity guide
-
-The earlier single-file walkthrough is kept at
-[`course-activities.md`](course-activities.md) for reference. The four lab
-folders above supersede it.
-
----
-
-© Tertiary Infotech Academy Pte Ltd · UEN 201200696W
+[View course details and register](https://www.tertiarycourses.com.sg/wsq-fundamentals-of-ai-ethics-and-responsible-ai.html)

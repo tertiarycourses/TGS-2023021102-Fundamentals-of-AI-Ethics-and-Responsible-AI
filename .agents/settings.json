@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/courseware-pre-hook.py\""
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.agents/hooks/courseware-pre-hook.py\""
           }
         ]
       },
@@ -15,7 +15,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/courseware-tms-push-hook.py\""
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.agents/hooks/courseware-tms-push-hook.py\""
           }
         ]
       }
@@ -26,7 +26,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/courseware-post-hook.py\""
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.agents/hooks/courseware-post-hook.py\""
           }
         ]
       }

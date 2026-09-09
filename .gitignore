@@ -1,6 +1,40 @@
-.env
-.mcp.json
-node_modules/
+# macOS metadata
 .DS_Store
-.playwright-mcp/
-screenshot-*.png
+**/.DS_Store
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+.npmrc
+.netrc
+
+# Private course records and assessment material
+/course_application/
+/assessment/
+/assessment\ /
+/all the skills to download folder
+
+# Archives and generated output
+*.zip
+__pycache__/
+*.py[cod]
+/build/
+/dist/
+/qa/
+/qa-*/
+/rendered/
+
+# Private source references, except generic skill reference implementations
+**/reference/
+!.claude/skills/wsq-slides/reference/
+!.claude/skills/wsq-slides/reference/**
+!.agents/skills/wsq-slides/reference/
+!.agents/skills/wsq-slides/reference/**
