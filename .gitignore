@@ -22,6 +22,8 @@ secrets.json
 /assessment/
 /assessment\ /
 /all the skills to download folder
+/.agents/
+/.claude/
 
 # Archives and generated output
 *.zip
@@ -41,9 +43,5 @@ __pycache__/
 /courseware/AP-*
 /courseware/FG-*
 
-# Private source references, except generic skill reference implementations
+# Private source references
 **/reference/
-!.claude/skills/wsq-slides/reference/
-!.claude/skills/wsq-slides/reference/**
-!.agents/skills/wsq-slides/reference/
-!.agents/skills/wsq-slides/reference/**
