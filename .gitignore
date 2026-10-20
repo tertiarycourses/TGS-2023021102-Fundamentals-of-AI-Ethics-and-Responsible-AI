@@ -45,3 +45,10 @@ __pycache__/
 
 # Private source references
 **/reference/
+
+# Facilitator Guide + Assessment Plan embed the answer keys and rubric:
+# trainer-only (Google Drive + TMS), never GitHub
+courseware/**/FG_*
+courseware/**/FG-*
+courseware/**/Assessment_Plan_*
+courseware/**/AP-*
